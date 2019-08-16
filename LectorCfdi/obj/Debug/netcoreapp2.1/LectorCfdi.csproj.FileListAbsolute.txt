@@ -1,0 +1,24 @@
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.deps.json
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.runtimeconfig.json
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.runtimeconfig.dev.json
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.dll
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.pdb
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.csprojAssemblyReference.cache
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.AssemblyInfo.cs
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.dll
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.pdb
+C:\Users\RAFAEL\source\repos\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\XMLFile1.xml
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.csprojAssemblyReference.cache
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.AssemblyInfoInputs.cache
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.AssemblyInfo.cs
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.dll
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\obj\Debug\netcoreapp2.1\LectorCfdi.pdb
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\XMLFile1.xml
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.deps.json
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.runtimeconfig.json
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.runtimeconfig.dev.json
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.dll
+C:\Users\RAFAEL\Downloads\Telegram Desktop\LectorCfdi\LectorCfdi\bin\Debug\netcoreapp2.1\LectorCfdi.pdb
